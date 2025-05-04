@@ -2,7 +2,9 @@
 opencv-python>=4.5.4.60
 numpy>=1.21.5
 mediapipe>=0.8.10
+websockets>=10.3
 pyautogui>=0.9.53
+flask>=2.0.1
 
 # Python version recommendation
 # This project works best with Python 3.7-3.9
