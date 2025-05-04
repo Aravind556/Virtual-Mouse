@@ -1,0 +1,8 @@
+# Core dependencies
+opencv-python>=4.5.4.60
+numpy>=1.21.5
+mediapipe>=0.8.10
+pyautogui>=0.9.53
+
+# Python version recommendation
+# This project works best with Python 3.7-3.9
